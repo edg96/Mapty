@@ -8,11 +8,11 @@ Mapty is a modern web application that allows users to map and track their runni
 
 ## Features
 
-- **Interactive Map Integration** – Powered by Leaflet.js, the app allows users to mark workout locations interactively on a map.
-- **Comprehensive Tracking** – Log detailed workout stats, including type, distance, duration, pace, and elevation gain.
-- **Dynamic User Experience** – Switch seamlessly between running and cycling options with real-time data validation and form toggling.
-- **Persistent Data Storage** – Workouts are saved locally, ensuring data is available even after closing the browser.
-- **Responsive and Minimalistic Design** – Built with HTML, CSS, and JavaScript for an elegant and user-friendly interface.
+- **Interactive Map Integration** - Powered by Leaflet.js, the app allows users to mark workout locations interactively on a map.
+- **Comprehensive Tracking** - Log detailed workout stats, including type, distance, duration, pace, and elevation gain.
+- **Dynamic User Experience** - Switch seamlessly between running and cycling options with real-time data validation and form toggling.
+- **Persistent Data Storage** - Workouts are saved locally, ensuring data is available even after closing the browser.
+- **Responsive and Minimalistic Design** - Built with HTML, CSS, and JavaScript for an elegant and user-friendly interface.
 
 ## Usage
 
